@@ -1,2 +1,0 @@
-first line on file
-second line added after first commit----------------
